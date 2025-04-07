@@ -25,7 +25,7 @@
         <nombre>Armin</nombre>
         <apellido>Arlert</apellido>
         <nacimiento>1990-02-02</nacimiento>
-        <curso>2º</curso>
+        <curso>2º</curso>   
     </alumno>
     <alumno id="a3" edad="22" becado="si">
         <nombre>Mikasa</nombre>
