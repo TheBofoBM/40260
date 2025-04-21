@@ -1,0 +1,10 @@
+<alumnos>
+    <alumno>
+            <nombre>Eren</nombre>
+            <nacimiento>1990-01-01</nacimiento>
+    </alumno>
+    <alumno>
+            <nombre>Levi</nombre>
+            <nacimiento>1990-01-01</nacimiento>
+    </alumno>
+</alumnos>
